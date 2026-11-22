@@ -1,0 +1,115 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Workshop Làm Quen Với React & TypeScript",
+      "date": "2026-09-15",
+      "startTime": "18:30",
+      "endTime": "20:30",
+      "format": "offline",
+      "location": "Phòng 302 - Tòa nhà A2",
+      "meetingUrl": "",
+      "maxSeats": 45
+    },
+    {
+      "id": "2",
+      "title": "Chia Sẻ Kinh Nghiệm Phỏng Vấn Thực Tập IT",
+      "date": "2026-10-05",
+      "startTime": "20:00",
+      "endTime": "21:30",
+      "format": "online",
+      "location": "",
+      "meetingUrl": "https://google.com",
+      "maxSeats": 120
+    },
+    {
+      "id": "3",
+      "title": "Giao Lưu Tân Sinh Viên Khóa Mới",
+      "date": "2026-10-25",
+      "startTime": "14:00",
+      "endTime": "17:00",
+      "format": "offline",
+      "location": "Hội trường lớn tầng 1",
+      "meetingUrl": "",
+      "maxSeats": 200
+    },
+    {
+      "id": "4",
+      "title": "Hackathon Mini: Xây Dựng Web Trong 24h",
+      "date": "2026-11-10",
+      "startTime": "08:00",
+      "endTime": "17:00",
+      "format": "offline",
+      "location": "Không gian sáng tạo Lab 4",
+      "meetingUrl": "",
+      "maxSeats": 60
+    },
+    {
+      "id": "5",
+      "title": "Webinar: Tối Ưu Hiệu Năng Ứng Dụng Web",
+      "date": "2026-12-05",
+      "startTime": "19:30",
+      "endTime": "21:00",
+      "format": "online",
+      "location": "",
+      "meetingUrl": "https://zoom.us",
+      "maxSeats": 150
+    },
+    {
+      "id": "6",
+      "title": "Buổi Sinh Hoạt Định Kỳ Tháng 12",
+      "date": "2026-12-15",
+      "startTime": "17:30",
+      "endTime": "19:00",
+      "format": "offline",
+      "location": "Sân vườn khu B",
+      "meetingUrl": "",
+      "maxSeats": 40
+    },
+    {
+      "id": "7",
+      "title": "Training Git & Quy Trình Làm Việc Nhóm",
+      "date": "2026-12-22",
+      "startTime": "20:00",
+      "endTime": "22:00",
+      "format": "online",
+      "location": "",
+      "meetingUrl": "https://google.com",
+      "maxSeats": 80
+    },
+    {
+      "id": "8",
+      "title": "Tiệc Tất Niên & Tổng Kết Câu Lạc Bộ",
+      "date": "2027-01-15",
+      "startTime": "18:00",
+      "endTime": "21:30",
+      "format": "offline",
+      "location": "Nhà hàng Sen Tây Hồ",
+      "meetingUrl": "",
+      "maxSeats": 100
+    },
+    {
+      "title": "ngày số fibonacci ",
+      "date": "2026-11-23",
+      "startTime": "00:00",
+      "endTime": "12:00",
+      "format": "online",
+      "location": "",
+      "meetingUrl": "https://meet.google.com",
+      "maxSeats": 500,
+      "id": "ooG3Pyk6X3Y"
+    },
+    {
+      "title": "Ngày văn hóa Việt Nam",
+      "date": "2026-11-24",
+      "startTime": "00:00",
+      "endTime": "12:00",
+      "format": "online",
+      "location": "",
+      "meetingUrl": "https://meet.google.com",
+      "maxSeats": 300,
+      "id": "ivvq6PgHpg0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
